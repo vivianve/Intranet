@@ -1,2 +1,2 @@
 # Intranet
-![MSSQL vaade](https://github.com/vivianve/Intranet/assets/119683504/92a16801-7356-468c-95f1-415dc1b87e26)
+![MSSQL vaade](https://github.com/vivianve/Intranet/assets/119683504/73630069-c3d8-4d62-8d51-8246ed85b8f7)
